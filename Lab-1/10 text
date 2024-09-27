@@ -1,0 +1,46 @@
+<html >
+    <head>
+       
+        <title>
+           TEN HTML TEXT FORMAT
+        </title>
+    </head>
+    <body bgcolor="lightyellow">
+        <h1> WHAT IS HTML?</h1>
+        <dd>HTML stands for Hypertext Markup Language, and it's the code used to structure and define the content of web pages. HTML is the standard markup language for web browsers to display content on the World Wide Web.</dd>
+    
+     <h2>WHO DEVELOPED HTML?</h2>
+     <dd>The first version of HTML was written by<mark> Tim Berners-Lee </mark>in 1993. Since then, there have been many different versions of HTML. The most widely used version throughout the 2000's was HTML 4.01, which became an official standard in December 1999.</dd>
+    
+     <h2> WHAT ARE THE HTML BULDING BLOCKS?</h2>
+     <dd><b>Tags:</b> &nbsp;An HTML tag surrounds the content and apply meaning to it. It is written between < and > brackets.</dd>
+    <dd><b>Attribute: </b> &nbsp;&nbsp;An attribute in HTML provides extra information about the element, and it is applied within the start tag. An HTML attribute contains two fields: name & value.</dd>
+    <h2>WHAT IS !DOCTYPE ?</h2>
+    <dd>The !DOCTYPE declaration represents the document type, and helps browsers to display web pages correctly.
+
+        It must only appear once, at the top of the page (before any HTML tags).
+        
+        The !DOCTYPE declaration is not case sensitive.</dd>
+        <h2>HOW TO DEFINE A PARAGRAPH IN HTML?</h2>
+        <dd>By using p tag</dd>
+        <h2> HOW EVERY TAG SHOULD BE?</h2>
+        <dd>Evey tag must have open and closed tag</dd>
+        <h2>HOW MANY TYPES OF LIST ARE THERE?</h2>
+        <dd>There are three types of LIST:
+            <dt>Orderedlist</dt>
+            <dt>unordered list</dt>
+            <dt>descriptive list</dt>
+            </dd>
+        <h2> WHAT TYPES OF EDITORS ARE THERE?</h2>
+        <p>An HTML file is a text file, so to create an HTML file we can use any text editors.<br>
+            Text editors are the programs which allow editing in a written text, hence to create a web page we need to write our code in some text editor.<br>
+            There are various types of text editors available which you can directly download, but for a beginner, the best text editor is Notepad (Windows) or TextEdit (Mac).<br>
+            After learning the basics, you can easily use other professional text editors which are, Notepad++, Sublime Text, Vim, etc.</p>
+    
+    <h2>What is anchor tag?
+    </h2>
+    <p>The HTML anchor tag defines a hyperlink that links one page to another page. It can create hyperlink to other web page as well as files, location, or any URL. The "href" attribute is the most important attribute of the HTML a tag. and which links to destination page or URL.</p>
+       
+<h2> WHAT IS IMAGE TAG?</h2>
+<p>HTML img tag is used to display image on the web page. HTML img tag is an empty tag that contains attributes only, closing tags are not used in HTML image element.</p>
+</body>
